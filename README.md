@@ -1,1 +1,1 @@
-https://gabypenalver.github.io/Renderizacion/
+https://gabypenalver.github.io/Renderizacion/  Trabaje de manera individual
